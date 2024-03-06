@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VALORANT", "VALORANT\VALORANT.csproj", "{0E851D71-5A65-4F05-9E6C-03D41D911A68}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0E851D71-5A65-4F05-9E6C-03D41D911A68}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0E851D71-5A65-4F05-9E6C-03D41D911A68}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0E851D71-5A65-4F05-9E6C-03D41D911A68}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0E851D71-5A65-4F05-9E6C-03D41D911A68}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
